@@ -1,5 +1,5 @@
 # Moved
 
-This address now redirects to Ghost Screen Analytics: https://thelowposthoops.github.io/ghost-screen-analytics/
+This address now redirects to Ghost Screen Analytics: https://ghostscreenanalytics.github.io/
 
-Code: https://github.com/TheLowPostHoops/ghost-screen-analytics
+Code: https://github.com/ghostscreenanalytics/ghostscreenanalytics.github.io
